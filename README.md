@@ -1,4 +1,4 @@
-# Emotion Detector Final Project (`oaqjp-final-project-emb-ai`)
+# Final Project
 
 ## Project Overview
 
