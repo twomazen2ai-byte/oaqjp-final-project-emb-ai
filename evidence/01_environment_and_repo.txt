@@ -1,0 +1,29 @@
+=== Python Version ===
+Python 3.11.2
+
+=== Installed Packages (Flask, Requests, PyLint) ===
+Flask              3.1.3
+pylint             4.1.3
+requests           2.34.2
+
+=== Repository Structure ===
+.
+./EmotionDetection
+./EmotionDetection/__init__.py
+./EmotionDetection/__pycache__
+./EmotionDetection/emotion_detection.py
+./LICENSE
+./README.md
+./__pycache__
+./__pycache__/server.cpython-311.pyc
+./__pycache__/test_emotion_detection.cpython-311.pyc
+./emotion_detection.py
+./evidence
+./evidence/01_environment_and_repo.txt
+./requirements.txt
+./server.py
+./static
+./static/mywebscript.js
+./templates
+./templates/index.html
+./test_emotion_detection.py

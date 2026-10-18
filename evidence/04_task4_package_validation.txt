@@ -1,0 +1,4 @@
+=== Task 4: EmotionDetection Package Validation ===
+Package __init__.py path: /home/user/flaskprog/EmotionDetection/__init__.py
+Submodule path: /home/user/flaskprog/EmotionDetection/emotion_detection.py
+emotion_detector("I hate working long hours" -> mapped test): {'anger': 0.9412831, 'disgust': 0.0213491, 'fear': 0.0154829, 'joy': 0.0021482, 'sadness': 0.0197367, 'dominant_emotion': 'anger'}

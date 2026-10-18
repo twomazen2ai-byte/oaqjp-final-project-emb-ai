@@ -1,0 +1,17 @@
+test_emotion_detector (test_emotion_detection.TestEmotionDetector.test_emotion_detector)
+Verify the five required course statements and dominant emotions. ... ok
+test_flask_server_routes_and_error_handling (test_emotion_detection.TestEmotionDetector.test_flask_server_routes_and_error_handling)
+Verify Flask index route, valid detection, and blank input handling. ... ok
+test_http_400_returns_none_values (test_emotion_detection.TestEmotionDetector.test_http_400_returns_none_values)
+Verify HTTP 400 returns a dictionary with None for all fields. ... ok
+test_malformed_json_returns_none_values (test_emotion_detection.TestEmotionDetector.test_malformed_json_returns_none_values)
+Verify malformed JSON response is handled safely. ... ok
+test_output_format_and_request_contract (test_emotion_detection.TestEmotionDetector.test_output_format_and_request_contract)
+Verify output schema, numeric values, and Watson request contract. ... ok
+test_request_exception_returns_none_values (test_emotion_detection.TestEmotionDetector.test_request_exception_returns_none_values)
+Verify network errors return None values without raising. ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.013s
+
+OK

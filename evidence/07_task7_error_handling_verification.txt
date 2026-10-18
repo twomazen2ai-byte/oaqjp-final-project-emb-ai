@@ -1,0 +1,6 @@
+=== Task 7A: HTTP 400 Status Code Handling in emotion_detector ===
+emotion_detector("") with HTTP 400: {'anger': None, 'disgust': None, 'fear': None, 'joy': None, 'sadness': None, 'dominant_emotion': None}
+
+=== Task 7B: Live Flask Server Blank & Whitespace-Only Input Handling ===
+GET /emotionDetector?textToAnalyze= -> Invalid text! Please try again!
+GET /emotionDetector?textToAnalyze=%20%20%20 -> Invalid text! Please try again!
